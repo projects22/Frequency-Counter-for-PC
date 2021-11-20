@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "serial counter USB", "serial counter USB\serial counter USB.vbproj", "{36DFC2F5-372F-434D-91DB-898B6AA9BB42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36DFC2F5-372F-434D-91DB-898B6AA9BB42}.Debug|x86.ActiveCfg = Debug|x86
+		{36DFC2F5-372F-434D-91DB-898B6AA9BB42}.Debug|x86.Build.0 = Debug|x86
+		{36DFC2F5-372F-434D-91DB-898B6AA9BB42}.Release|x86.ActiveCfg = Release|x86
+		{36DFC2F5-372F-434D-91DB-898B6AA9BB42}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
